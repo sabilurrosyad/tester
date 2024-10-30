@@ -67,4 +67,6 @@ func calculate(d float64) (float64, float64) {
 	var circumference = math.Pi * d
 
 	return area, circumference
+
+	// adding bug fixes
 }
